@@ -1,0 +1,43 @@
+.mm
+{ border:solid;height:636px;width: 1000px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkf_-T7D_sTBJP-HPWxkc67htCXpdD1Nr84g&usqp=CAU");
+    background-size:cover;
+}
+
+
+
+h1{
+    font-size: 50px;
+    color:white;
+}
+p{
+    font-size:20;
+    color:white;
+}
+ul li{
+    display: inline-block;
+    padding-left: 20px;
+    color:white;
+    color:white;}
+    .hw
+    { float: right;
+    }
+    input type{
+        padding:20px;
+    }
+
+    
+    .rr
+
+    {background-color:orange;
+        color:white;}
+        label{
+            color:white;
+        }
+        .card{
+            border:solid;height:320px;width:1000px;
+            
+        }
+        
+        
+        

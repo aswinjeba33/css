@@ -1,0 +1,127 @@
+.gh{
+    border-style: ridge;height:1200px;width: 500px;
+    border-color:aqua;
+    border-width: 29px;
+}
+.gg
+{
+    border:solid;height: 300px;width:500px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75DuaKPNW1tM5PvEbPzhfCAK1ieVWwlcyQA&usqp=CAU");
+background-repeat: no-repeat;
+background-size: cover;}
+
+.g{
+    float: right;
+    display: inline-block;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+ ul li {
+     
+    float:right;
+    color:black;
+    text-decoration:underline;
+    font-size: 10px;
+    padding:5px;
+}
+.head{
+    color: aliceblue;
+    font-size: 20px;
+}
+.yy
+{
+    font-size: 20px;
+    color: white;
+
+}
+P {
+    color:white;
+}
+button{
+    
+    border-radius: 10px;
+    
+}
+.il{
+    border:solid;height: 200px;width:500px;
+}
+h1{
+    font-size: 20px;
+    font-family: arial;
+    text-align: center;
+    color: blue;
+}
+.para{
+    color:black;
+    text-align: center;
+    font-size: 10px;
+    
+}
+.yer{
+    border:solid;height: 200px;width:500px;
+    display: flex;
+
+}
+.a1{border:solid;height: 200px;width:170px;
+    background-color: blue;
+        
+
+}
+.h2{
+    color:white;
+    font-size: 20px;
+    font-family: arial;
+}
+.parah{color: aliceblue;
+    font-size: 15px;
+    font-family: italic;
+
+}
+.a2{border:solid;height: 200px;width:170px;
+    background-color: black;
+    
+    
+
+}
+.a3{border:solid;height: 200px;width:170px;
+    background-color: blue;
+    
+}
+.pr{
+    border:solid;height: 170px;width:500px;
+
+}
+.tab{
+    
+    font-size:10px;
+    padding: 25px;
+}
+td{
+    color: blue;
+    
+}
+
+.tre{
+    border:solid;height: 100px;width:500px;
+    background-color: blue;
+
+}
+.ro
+{
+}
+.a{
+    color: white;
+    font-size: 25px;
+}
+.b{
+    color: white;
+    font-size: 10px;
+}
+hr {
+    border-color:blue;
+    
+    width: 50px;
+    margin-top:-10px;
+}
